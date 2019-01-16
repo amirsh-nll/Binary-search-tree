@@ -9,7 +9,7 @@ Several variants of the binary search tree have been studied in computer science
 
 ....
 
-** class list**
+**class list**
 * myTree()
 * ~myTree()
 * insert()
@@ -22,5 +22,6 @@ Several variants of the binary search tree have been studied in computer science
 * find()
 * is_empty()
 * get_counter()
+*
 
 **this Repository Based : java programming language**
