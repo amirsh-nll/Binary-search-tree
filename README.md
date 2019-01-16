@@ -9,4 +9,18 @@ Several variants of the binary search tree have been studied in computer science
 
 ....
 
+** class list**
+* myTree()
+* ~myTree()
+* insert()
+* clear()
+* begin()
+* end()
+* cbegin()
+* cend()
+* balance()
+* find()
+* is_empty()
+* get_counter()
+
 **this Repository Based : java programming language**
