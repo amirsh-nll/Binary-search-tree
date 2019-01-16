@@ -1,5 +1,5 @@
 # Binary-search-tree
-Binary search tree in jaava
+Binary search tree in c++
 
 **About Binary search tree : ([wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree))**
 
@@ -23,4 +23,4 @@ Several variants of the binary search tree have been studied in computer science
 * is_empty()
 * get_counter()
 
-**this Repository Based : java programming language**
+**this Repository Based : c++ programming language**
